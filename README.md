@@ -1,6 +1,6 @@
 # Hola, soy Jorge
 
-**Ingeniero en desarrollo informático** con 5 años de experiencia. Construyo portales web para clientes, integro plataformas y automatizo reportes, desde el código hasta la puesta en producción.
+**Ingeniero en Informática y Gestión (Universidad Diego Portales)**, con más de 8 años en TI. Construyo portales web para clientes, integro plataformas y automatizo reportes, desde el código hasta la puesta en producción.
 
 Hoy trabajo en una agencia de trade marketing y retail en Chile, donde soy el responsable técnico de la operación.
 
@@ -24,6 +24,10 @@ Hoy trabajo en una agencia de trade marketing y retail en Chile, donde soy el re
 ![Astro](https://img.shields.io/badge/Astro-BC52EE?style=flat&logo=astro&logoColor=white)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat&logo=tailwindcss&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)
+![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=flat&logo=microsoftsqlserver&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
+![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=flat&logo=graphql&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat&logo=redis&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazonwebservices&logoColor=white)
@@ -31,6 +35,14 @@ Hoy trabajo en una agencia de trade marketing y retail en Chile, donde soy el re
 ![Playwright](https://img.shields.io/badge/Playwright-2EAD33?style=flat&logo=playwright&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat&logo=githubactions&logoColor=white)
 ![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=flat&logo=powerbi&logoColor=black)
+
+## Trayectoria
+
+- **Desarrollo:** full stack con JavaScript y Node.js; antes backend con GraphQL y Redis, y desarrollo con .NET y C#. En un trabajo anterior reduje los tiempos de respuesta del backend en un 25 % optimizando consultas SQL.
+- **Bases de datos:** administración y optimización de SQL Server, MySQL, PostgreSQL y Oracle, con modelado de datos para reportería.
+- **Infraestructura TI:** redes, control de acceso y facturación electrónica. Lideré el equipo TI de 4 plantas en Chile, Argentina y Perú, con ITIL e ISO 27001.
+- **Docencia:** profesor auxiliar de Ingeniería en Software en la Universidad Diego Portales (2021 a 2023).
+- **Formación:** Ingeniero en Informática y Gestión, UDP. Certificado MS-900 Microsoft 365 Fundamentals.
 
 ## Proyectos en producción
 
